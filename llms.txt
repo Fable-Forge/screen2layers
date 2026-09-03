@@ -1,0 +1,13 @@
+# Screen2Layers
+
+> Reconstruct flat UI screenshots into movable slices and Figma-ready layered kits.
+
+## Primary instructions
+
+- SKILL.md: https://github.com/Fable-Forge/screen2layers/blob/main/SKILL.md
+- Installation: https://github.com/Fable-Forge/screen2layers/blob/main/docs/install.md
+- Update: https://github.com/Fable-Forge/screen2layers/blob/main/docs/update.md
+
+## Install
+
+`npx skills add Fable-Forge/screen2layers`

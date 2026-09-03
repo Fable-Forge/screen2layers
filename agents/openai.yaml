@@ -1,0 +1,4 @@
+interface:
+  display_name: "screen2layers"
+  short_description: "Turn UI screenshots into Figma-ready layered kits."
+  default_prompt: "Convert this UI screenshot into a Figma-ready layered kit with background, transparent slices, SVG layout, and manifest."
