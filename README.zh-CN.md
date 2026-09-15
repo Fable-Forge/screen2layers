@@ -6,12 +6,17 @@
 
 **把扁平 UI 截图重建为可移动切片、布局 SVG 与 Figma 友好的分层包。**
 
-> Reconstruct flat UI screenshots into movable slices and Figma-ready layered kits.
+<p>Reconstruct flat UI screenshots into movable slices and Figma-ready layered kits.</p>
 
 <p>
   <a href="https://github.com/Fable-Forge/screen2layers/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0969da"></a>
   <img alt="Maturity: beta" src="https://img.shields.io/badge/maturity-beta-8250df">
   <img alt="Agents: Codex and Claude Code" src="https://img.shields.io/badge/agents-Codex_%C2%B7_Claude_Code-1f883d">
+  <a href="https://github.com/Fable-Forge/screen2layers/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Fable-Forge/screen2layers?style=social"></a>
+</p>
+
+<p>
+  <strong>如果这个 Skill 帮你更顺利地完成工作，欢迎点个 ⭐，也能帮助更多人发现它。</strong>
 </p>
 
 </div>
